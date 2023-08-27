@@ -13,7 +13,7 @@
         "Музыка"
     ],
     "appRepositories": [
-        {   "appType": " ",
+        { 
             "appCateIndex": 0,
             "appUpdateTime": "2023-08-25T08:00:00+0800",
             "appName": "СБОЛ (Сбербанк Онлайн)",
@@ -23,7 +23,6 @@
             "appDescription": "Удаленное из App Store приложение Сбербанка."
         },
         {
-            "appType": " ",
             "appCateIndex": 0,
             "appUpdateTime": "2023-08-25T08:00:00+0800",
             "appName": "Тинькофф Мобильный банк",
@@ -33,7 +32,6 @@
             "appDescription": "Удаленное из App Store приложение Тинькофф банка."
         },
         {
-            "appType": " ",
             "appCateIndex": 1,
             "appUpdateTime": "2023-08-25T08:00:00+0800",
             "appName": "TikTok LRD",

@@ -1,45 +1,16 @@
 {
-    "version": "1.0",
-    "sourceName": "IPSW.GURU PREMIUM",
-    "sourceAuthor": "IPSW.GURU",
-    "sourceLinkTitle": "💫Сертификат",
-    "sourceLinkUrl": "https://ipsw.guru/premium/",
-    "sourceImage": "https://sun9-17.userapi.com/impg/1Iuo7lOmaJhZPVT9FpjAurQHhsqv6m5faq1NRA/UwJ-Gq2DDkQ.jpg?size=174x186&quality=96&sign=747c4d8446f38acd49ebecfffd1ca2d0&type=album",
-    "sourceUpdateTime": "2023-08-25T11:00:00+0800", 
-    "sourceDescription": "📱 IPA-файлы приложений и игр от сайта IPSW.GURU.📱 Для установки нажмите Скачать – Установить - Подписать",
-    "appCategories": [
-        "Банки",
-        "Социальные сети",
-        "Музыка"
-    ],
-    "appRepositories": [
-        {   "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-            "appUpdateTime": "2023-08-25T08:00:00+0800",
-            "appName": "СБОЛ (Сбербанк Онлайн)",
-            "appVersion": "14.11.0",
-            "appImage": "https://static.rustore.ru/45708c9b-4819-486e-8ebc-c31249292480",
-            "appPackage": "https://ipsw.guru/premium/signer/sbol/sbol.ipa",
-            "appDescription": "Удаленное из App Store приложение Сбербанка."
-        },
-        {   "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-            "appUpdateTime": "2023-08-25T08:00:00+0800",
-            "appName": "Тинькофф Мобильный банк",
-            "appVersion": "6.13.5",
-            "appImage": "https://acdn.tinkoff.ru/static/pages/files/51e6f562-46d7-4e67-9da0-8fa8f9146c15.png",
-            "appPackage": "https://ipsw.guru/premium/signer/tinkoff/tinkoff.ipa",
-            "appDescription": "Удаленное из App Store приложение Тинькофф банка."
-        },
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-            "appUpdateTime": "2023-08-25T08:00:00+0800",
-            "appName": "TikTok LRD",
-            "appVersion": "30.8.0",
-            "appImage": "https://ipsw.guru/i/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20tiktok%20lrd_app.png",
-            "appPackage": "https://ipsw.guru/premium/signer/tik-tok-lrd/tik-tok-lrd.ipa",
-            "appDescription": "Модифицированный клиент TikTok."
-        }
-    ]
+  "appCategories" : [
+    "Банки",
+    "Социальные сети",
+    "Музыка"
+  ],
+  "sourceUpdateTime" : "2023-12-01T12:21+0700",
+  "sourceAuthor" : "IPSW.GURU",
+  "sourceLinkUrl" : "https:\/\/ipsw.guru\/premium\/",
+  "sourceDescription" : "📱 IPA-файлы приложений и игр от сайта IPSW.GURU.📱 Для установки нажмите Скачать – Установить - Подписать",
+  "version" : "1.0",
+  "sourceName" : "IPSW.GURU PREMIUM",
+  "sourceLinkTitle" : "💫Сертификат",
+  "sourceImage" : "https:\/\/sun9-17.userapi.com\/impg\/1Iuo7lOmaJhZPVT9FpjAurQHhsqv6m5faq1NRA\/UwJ-Gq2DDkQ.jpg?size=174x186&quality=96&sign=747c4d8446f38acd49ebecfffd1ca2d0&type=album",
+  "appRepositories" : "AwG14V2NI8eU8PrkgJObGaB19yc52+odbIQPCQlFKb0tS0TtUDoC3cnoXh3XA4kdxNtwFRARg1fYTeaOiwMQSeK2eJYF7a1q6RTcnqdq0JQi+hPepc+9D41rdGeaBy057E76T7gs3645dFW+4Sg7gQifR41n9HlRWD6Cm+XH75kswYacjuZiZyOt5nnefhmuoHpfLgO3SCnw00xVBLdgk7bc6dLfJNOP53QPmV5TqrqysfTp1WXI8h8MbxmmLAmKXbx7vyGVl6JdjjjHdTUxirRbB+04HjVUIhH+FP2VQS30mxo+FmHPPcKQScgjLYoPAj7zthY5LKaHXGglH9ZVMd5zR3RkioWc2vytxnDVM7cUmVbl+5sHDE7wwg6uOeC5eq8CeSbHj52z3zh76RK2OLpLZW65dRG\/ekK\/zZutMcBmOldxJz3X1608rtGoir\/0jwTfpsQ0k3YK7YEU8zISPNHq8D+lFU25btryBAXSJ2YMgEL5+bBDcDD1Zr8jbQpED7\/X9K45tBn\/phWn8XMrg95KZ5RMTQ+NepvJODyq8WiElCgsD++4KNYlnJsndFrpgjm9by2\/rTuABnf4mQt+DX8nKgn7g3dUhxLSL45X8yezXjkr97oOkn78PFss5PJrbm\/SzgP\/OgxeZmpGRtVJLocRm2aqaaUWPegS13qGl76VMjgzyED\/IrqFt3yHNAj5DqTA\/JTtSLF47ZafEXMAGye0K0F7JVBLzqrDFV8ar7hWRkUf\/xfd8W2UHaIC0czh2X3QUe1Yy7Y7VP\/ckNF1rHQKrCp2D\/jirRI5AnDK1tUJ4N3u4A3+OfVjt45o7d7YcdYjNfbooNjJgGPH8DEPNh8rT0GN6KEAVYD9+3Z3azLfATRxeac4p7YJRWsi0NDzEx3HwPu4dvE5cvd3bhcCjaoUOQ+\/vcmf86J9JwRSdcgoL7G0TZg1CTqtoY3MvA2IQTEYX84ABUYgM7HSLPAsyFYnOXdfhswO52sAHre41yTyecpJ8OKRmlcJpvblF06fxrj2KU3nyHVf+WJyeYW4iIRq4vHLFLBSBiH4eEmeWPhBH7clJF\/31q3\/tM5XmMV4E1GmzGzBzCEzLhVS6+lbBDo9zLl9zTkmNETWkt7zLPjqWOyl6wG2Mbw1JV22r2jkQPbzaip5VlPaZ7mQMXqBhQuASTSQ3OOwpZfDnSOWbPXaHVGxIQi9bOoBcsL1vRBoi16nhIJI+IsELANHaKCY\/SASSvbgAQ6MOxxhFM\/oIGoghT+Y85RHmhy1tp+Hcgp7gPP3b1iDe8D6OnHcH+GxbkLdPJ5B7mgL9bzpiOZjXHuqH9ph27Q3msIA9\/8WIlOfUSELFROYkvaKYOp+ohISD2dZZboTTA9ipc94J4Jl1BlRmQ\/V\/LAgLU\/YSWbzYmbbe9zsphkpgyvEeG7w7DAdl5h3pvwPUNP5Q2FOSi9efmW8eZHJYfJWZcoyMh7Le6V\/a6tE4lp58\/08cgF7CbRL+r4wa38rCBjV2VL36c33RaoEYRCecscggpi286esw8uRY7eJ228iJii0jH9u1T9Lio9z3MCWA3+Xldj5aLJzqRjwoPrD45M3xWaKEmDdma4saKIwJOCJ0kpyn9SjlK3XvW6wRiEgG0UXI7HRd9msc\/lDJ6VgcV9N\/hjMtFS0JdB0sZ6zigdY+YSJXpIX7HYlvFoAx2AaqUS5vGEaQptXgUe55sNFpA1\/CNelzyHxDmAORLLwUQAJVkmzUy7lD8z9q41nfC0aKKL6Xl6dijxKOK\/Xzw=="
 }

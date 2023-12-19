@@ -106,5 +106,61 @@
             "appPackage": "https://ipsw.guru/premium/signer/uyou-plus/uyou-plus.ipa",
             "appDescription": "uYouPlus или uYou+ — это модифицированная версия YouTube, которая добавляет в приложение новые функции:\n\nБлокировка рекламы.\nСохраняйте видео и аудио в медиатеку iPhone или iPad.\nСобственный режим «картинка в картинке».\nВоспроизедение видео в фоновом режиме.\nУправление видеоплеером при помози жестов. Свайп влево или вправо, чтобы увеличить или уменьшить громкость, яркость или пролистать видео."
         }
+        ,
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-12-19T08:00:00+0800",
+            "appName": "Spotify++ (Spotilife and Sposify)",
+            "appVersion": "8.8.82 (T1.8 & 8.5.52)",
+            "appImage": "https://ipsw.guru/i/spotify_app.png",
+            "appPackage": "https://ipsw.guru/premium/signer/spotify/spotify.ipa",
+            "appDescription": "Нет рекламы, включен поиск, треки не перемешиваются сами по себе, неограниченное число пропусков треков, улучшенное качество воспроизведения, импорт песен из приложения Музыка, включение или отключить обложек плейлиста, включение режима «Сейчас играет шоу»., импорт локальных плейлистов, очистика кеша Spotify."
+        }
+        ,
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-12-19T08:00:00+0800",
+            "appName": "Google Home",
+            "appVersion": "3.3.104",
+            "appImage": "https://ipsw.guru/i/492x0w_app.jpeg",
+            "appPackage": "https://ipsw.guru/premium/signer/google-home/google-home.ipa",
+            "appDescription": "Недоступное в российском App Store приложение Google Home. Google Home поможет персонализировать умный дом и организовать устройства в нем. В приложении вы можете настраивать и контролировать устройства Wi-Fi, Google Nest и Chromecast, а также другие элементы умного дома, например светильники, камеры, термостаты и т. д."
+        }
+        ,
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-12-19T08:00:00+0800",
+            "appName": "​​Premier",
+            "appVersion": "2.34.0",
+            "appImage": "https://ipsw.guru/i/photo_2023-02-01%2011.56.06_app.jpeg",
+            "appPackage": "https://ipsw.guru/premium/signer/premier/premier.ipa",
+            "appDescription": "Удаленное из AppStore приложение онлайн-кинотеатра ТНТ Премьер."
+        }
+        ,
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-12-19T08:00:00+0800",
+            "appName": "Ситидрайв",
+            "appVersion": "4.18",
+            "appImage": "https://ipsw.guru/i/citydrive_app.png",
+            "appPackage": "https://ipsw.guru/premium/signer/citydrive/citydrive.ipa",
+            "appDescription": "Удаленное из App Store приложение каршеринга Ситидрайв."
+        }
+        ,
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-12-19T08:00:00+0800",
+            "appName": "Яндекс.Музыка|YM.Plus",
+            "appVersion": "5.55 (T0.8b)",
+            "appImage": "https://ipsw.guru/i/Yandex.Music_app.png",
+            "appPackage": "https://ipsw.guru/premium/signer/yandex-music/yandex-music.ipa",
+            "appDescription": "Музыкальный сервис со взломом на подписку. Доступно онлайн прослушивание в высоком качестве и загрузка в кэш."
+        }
+       
     ]
 }
